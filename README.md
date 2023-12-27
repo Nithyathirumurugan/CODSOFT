@@ -10,4 +10,10 @@ This GitHub repository hosts a Java application developed in NetBeans IDE 20 for
 *  **Java**: The core programming language used for implementing the student grade calculation logic.
 *  **NetBeans IDE 20**: The integrated development environment employed for Java application development.
 *  **GitHub**: This repository is hosted on GitHub, providing version control and collaboration features.
+# How to Run
+*  **Clone the Repository**: Clone this repository to your local machine using the provided GitHub URL.
+*  **Open in NetBeans IDE 20**: Open the project in NetBeans IDE 20 for easy development and testing.
+*  **Build and Run**: Build and run the project to execute the Student Grade Calculation program.
+*  **User Input**: Follow the on-screen instructions to input subject marks.
+*  **View Results**: The program will display the total marks, average percentage, and the corresponding letter grade.
 
