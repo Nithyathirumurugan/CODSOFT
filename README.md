@@ -16,4 +16,10 @@ This GitHub repository hosts a Java application developed in NetBeans IDE 20 for
 *  **Build and Run**: Build and run the project to execute the Student Grade Calculation program.
 *  **User Input**: Follow the on-screen instructions to input subject marks.
 *  **View Results**: The program will display the total marks, average percentage, and the corresponding letter grade.
+# Contribution Guidelines
+Contributions to this project are welcome! If you have ideas for improvements, bug fixes, or new features, follow the standard GitHub workflow: fork the repository, create a branch for your changes, and submit a pull request.
+
+# License
+This project is licensed under the MIT License.
+
 
